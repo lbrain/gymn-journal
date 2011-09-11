@@ -3,3 +3,11 @@ C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\Domain\bin\D
 C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\Domain\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\Domain\obj\Debug\Domain.dll
 C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\Domain\obj\Debug\Domain.pdb
+C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\Domain\bin\Debug\Moq.dll
+C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\Domain\bin\Debug\Ninject.dll
+C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\Domain\bin\Debug\Moq.pdb
+C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\Domain\bin\Debug\Moq.xml
+C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\Domain\bin\Debug\Ninject.pdb
+C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\Domain\bin\Debug\Ninject.xml
+C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\Domain\bin\Debug\EntityFramework.xml

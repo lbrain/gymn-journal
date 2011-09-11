@@ -5,7 +5,7 @@ using System.Text;
 using Domain.Entities;
 
 namespace Domain {
-    interface IStudentRepository {
+    public interface IStudentRepository {
         IQueryable<Student> Students { get; }
     }
 }

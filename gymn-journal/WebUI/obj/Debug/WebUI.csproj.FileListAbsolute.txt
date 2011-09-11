@@ -5,3 +5,11 @@ C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\WebUI\bin\En
 C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\WebUI\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\WebUI\obj\Debug\WebUI.dll
 C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\WebUI\obj\Debug\WebUI.pdb
+C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\WebUI\bin\Moq.dll
+C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\WebUI\bin\Ninject.dll
+C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\WebUI\bin\Moq.pdb
+C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\WebUI\bin\Moq.xml
+C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\WebUI\bin\Ninject.pdb
+C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\WebUI\bin\Ninject.xml
+C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\WebUI\bin\Domain.dll
+C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\WebUI\bin\Domain.pdb
