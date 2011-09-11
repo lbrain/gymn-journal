@@ -1,0 +1,14 @@
+﻿@model IEnumerable<Domain.Entities.Student>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>List of students</h2>
+
+@foreach (var s in Model) {
+    <div class = "item">
+        <h3>@s.Surname @s.Name @s.Patronymic</h3>
+        @s.Class
+    </div>
+}
