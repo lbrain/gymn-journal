@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\WebUI\bin\WebUI.dll
+C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\WebUI\bin\WebUI.pdb
+C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\WebUI\bin\EntityFramework.dll
+C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\WebUI\bin\EntityFramework.xml
+C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\WebUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\WebUI\obj\Debug\WebUI.dll
+C:\Users\Administrator\Documents\projects\gymn-journal\gymn-journal\WebUI\obj\Debug\WebUI.pdb
